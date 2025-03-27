@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Mera Singh
+Sudent Email:  mesingh@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-
+ I got to grips with using Streamlit alongside pandas to build interactive data apps, which was pretty cool. It also showed me how important it is to write clean, modular code and to handle errors properly to keep things running smoothly. I didnt have much problems with this assignment. 
